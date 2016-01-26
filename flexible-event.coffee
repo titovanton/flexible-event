@@ -1,0 +1,5 @@
+(($) ->
+    $.fn.triggerCookieEvent = (eventName) ->
+        
+
+)(jQuery)
